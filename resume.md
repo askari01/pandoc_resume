@@ -1,46 +1,46 @@
-Johnny Coder
+Farrukh Askari
 ============
 
-----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
+-------------------     ----------------------------
+T#1073 Al-Noor            farrukh.askari01@gmail.com
+Street Gulberg 1                           @askari01
+Peshawar, KPK, PK                      +923348292768
+------------------- ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2011-2015
+:   **BCS, Computer Science**; University of Engineering & Technology Peshawar
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Project title: Automation of FYP (Final Year Project) Process*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2009-2011
+:   **HSSC, Computer Science**; Edwardes College Peshawar
 
-    *Minor: Awesomeology*
+2009
+:   **SSC, Computer Science**; St. Mary's High School
+
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Back End Dev at Sweet Pixel Studios:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Most of the time I am Designing, creating apps for ios, sometimes I am writing scripts for game dev, and optimizing, migrating sites based on wordpress. Life is tough and u constantly needs to push your self to limits to be the best. work:
 
-* First item
+* Red Rover Camping [link](http://www.redrovercamping.com/)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* FlashFit [link](http://www.flashfit.co/).
 
-**That Other Job You Had**
+**Fellowship at Code For Pakistan:**
 
-Also with a short description.
+Creating apps for android, and writing apis. Life is easy and fun.
+ work:
+
+* House Allotment System [link](https://github.com/codeforpakistan/House-Allotment-Management-System)
+
+* KPK Traffic Challan [link](https://github.com/codeforpakistan/TrafficPoliceKPK-AndroidModule). 
 
 Technical Experience
 --------------------
@@ -72,7 +72,7 @@ Programming Languages
 :   **second-lang:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
-    file). 
+    file).
 
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
